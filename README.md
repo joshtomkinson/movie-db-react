@@ -69,3 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # movie-db-app
 # the-movie-db-react
 # the-movie-db-react
+# movie-db-react
